@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.aux
+*.bib
+*.dvi
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz

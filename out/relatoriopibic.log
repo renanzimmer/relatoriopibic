@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.2.1)  1 MAR 2021 14:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.2.1)  1 MAR 2021 14:48
 entering extended mode
 **./relatoriopibic.tex
 (relatoriopibic.tex
@@ -1177,8 +1177,8 @@ Package logreq Info: Writing requests to 'relatoriopibic.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17315 strings out of 479618
- 303094 string characters out of 2865027
+ 17316 strings out of 479618
+ 303187 string characters out of 2865027
  1104829 words of memory out of 3000000
  34144 multiletter control sequences out of 15000+200000
  478156 words of font info for 87 fonts, out of 3000000 for 9000
@@ -1194,7 +1194,8 @@ Users/renan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Us
 ers/renan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/User
 s/renan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/User
 s/renan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on relatoriopibic.pdf (12 pages, 248164 bytes).
+Output written on E:/GitRepos\relatoriopibic\out\relatoriopibic.pdf (12 pages, 
+248164 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
