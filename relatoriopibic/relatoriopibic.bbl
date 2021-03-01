@@ -1,0 +1,271 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{philosophy-of-epidemiology}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e01335ac80a344f104887fc1a82d02ed}{%
+           family={BROADBENDT},
+           familyi={B\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{e01335ac80a344f104887fc1a82d02ed}
+      \strng{fullhash}{e01335ac80a344f104887fc1a82d02ed}
+      \strng{bibnamehash}{e01335ac80a344f104887fc1a82d02ed}
+      \strng{authorbibnamehash}{e01335ac80a344f104887fc1a82d02ed}
+      \strng{authornamehash}{e01335ac80a344f104887fc1a82d02ed}
+      \strng{authorfullhash}{e01335ac80a344f104887fc1a82d02ed}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Philosophy of Epidemiology}
+      \field{year}{2013}
+    \endentry
+    \entry{cunha-unidade}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a2e1e67ca01c7daa560e43a1f9006123}{%
+           family={Cunha},
+           familyi={C\bibinitperiod},
+           given={Ivan\bibnamedelimb Ferreira\bibnamedelima da},
+           giveni={I\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a2e1e67ca01c7daa560e43a1f9006123}
+      \strng{fullhash}{a2e1e67ca01c7daa560e43a1f9006123}
+      \strng{bibnamehash}{a2e1e67ca01c7daa560e43a1f9006123}
+      \strng{authorbibnamehash}{a2e1e67ca01c7daa560e43a1f9006123}
+      \strng{authornamehash}{a2e1e67ca01c7daa560e43a1f9006123}
+      \strng{authorfullhash}{a2e1e67ca01c7daa560e43a1f9006123}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientiae Studia}
+      \field{title}{Uma discussão sobre a unidade da ciência: Neurath e a utopia da ciência unificada}
+      \field{volume}{13}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{97\bibrangedash 122}
+      \range{pages}{26}
+    \endentry
+    \entry{dewey-ee}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c5de775d0445f8562791447bca9a1ca}{%
+           family={DEWEY},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxfordshire}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis Group}%
+      }
+      \strng{namehash}{5c5de775d0445f8562791447bca9a1ca}
+      \strng{fullhash}{5c5de775d0445f8562791447bca9a1ca}
+      \strng{bibnamehash}{5c5de775d0445f8562791447bca9a1ca}
+      \strng{authorbibnamehash}{5c5de775d0445f8562791447bca9a1ca}
+      \strng{authornamehash}{5c5de775d0445f8562791447bca9a1ca}
+      \strng{authorfullhash}{5c5de775d0445f8562791447bca9a1ca}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Experience and Education}
+      \field{year}{1986}
+      \true{nocite}
+    \endentry
+    \entry{dewey-en}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c5de775d0445f8562791447bca9a1ca}{%
+           family={DEWEY},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {North Chelmsford}%
+      }
+      \list{publisher}{1}{%
+        {Courier Corporation}%
+      }
+      \strng{namehash}{5c5de775d0445f8562791447bca9a1ca}
+      \strng{fullhash}{5c5de775d0445f8562791447bca9a1ca}
+      \strng{bibnamehash}{5c5de775d0445f8562791447bca9a1ca}
+      \strng{authorbibnamehash}{5c5de775d0445f8562791447bca9a1ca}
+      \strng{authornamehash}{5c5de775d0445f8562791447bca9a1ca}
+      \strng{authorfullhash}{5c5de775d0445f8562791447bca9a1ca}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Experience and Nature}
+      \field{year}{1958}
+      \true{nocite}
+    \endentry
+    \entry{feyerabend-against-method}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=29e3a1125b58010517929f430ba70314}{%
+           family={FEYERABEND},
+           familyi={F\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Verso}%
+      }
+      \strng{namehash}{29e3a1125b58010517929f430ba70314}
+      \strng{fullhash}{29e3a1125b58010517929f430ba70314}
+      \strng{bibnamehash}{29e3a1125b58010517929f430ba70314}
+      \strng{authorbibnamehash}{29e3a1125b58010517929f430ba70314}
+      \strng{authornamehash}{29e3a1125b58010517929f430ba70314}
+      \strng{authorfullhash}{29e3a1125b58010517929f430ba70314}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Against Method}
+      \field{year}{1993}
+    \endentry
+    \entry{feyerabend-science-free-society}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=29e3a1125b58010517929f430ba70314}{%
+           family={FEYERABEND},
+           familyi={F\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Schocken Books}%
+      }
+      \strng{namehash}{29e3a1125b58010517929f430ba70314}
+      \strng{fullhash}{29e3a1125b58010517929f430ba70314}
+      \strng{bibnamehash}{29e3a1125b58010517929f430ba70314}
+      \strng{authorbibnamehash}{29e3a1125b58010517929f430ba70314}
+      \strng{authornamehash}{29e3a1125b58010517929f430ba70314}
+      \strng{authorfullhash}{29e3a1125b58010517929f430ba70314}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Science in a free society}
+      \field{year}{1978}
+    \endentry
+    \entry{haack-defending-science}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=94b27fef18d27d2d53a96137f6131950}{%
+           family={Haack},
+           familyi={H\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Prometheus Books}%
+      }
+      \strng{namehash}{94b27fef18d27d2d53a96137f6131950}
+      \strng{fullhash}{94b27fef18d27d2d53a96137f6131950}
+      \strng{bibnamehash}{94b27fef18d27d2d53a96137f6131950}
+      \strng{authorbibnamehash}{94b27fef18d27d2d53a96137f6131950}
+      \strng{authornamehash}{94b27fef18d27d2d53a96137f6131950}
+      \strng{authorfullhash}{94b27fef18d27d2d53a96137f6131950}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Defending science-within reason: Between scientism and cynicism}
+      \field{year}{2011}
+    \endentry
+    \entry{haack-six-signs}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=94b27fef18d27d2d53a96137f6131950}{%
+           family={Haack},
+           familyi={H\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{94b27fef18d27d2d53a96137f6131950}
+      \strng{fullhash}{94b27fef18d27d2d53a96137f6131950}
+      \strng{bibnamehash}{94b27fef18d27d2d53a96137f6131950}
+      \strng{authorbibnamehash}{94b27fef18d27d2d53a96137f6131950}
+      \strng{authornamehash}{94b27fef18d27d2d53a96137f6131950}
+      \strng{authorfullhash}{94b27fef18d27d2d53a96137f6131950}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Logos \& Episteme}
+      \field{title}{Six signs of scientism}
+      \field{volume}{3}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{75\bibrangedash 95}
+      \range{pages}{21}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,21 @@
+
+
+		\bibitem{1} CUNHA, Ivan Ferreira da. Uma discussão sobre a unidade da ciência: Neurath e a utopia da ciência unificada. Scientiae Studia, v. 13, n. 1, p. 97-122, 2015.
+		
+		\bibitem{2} FEYERABEND, Paul. Science in a free society. 1978.
+		
+		\bibitem{3} HAACK, Susan. Six signs of scientism. Logos \& Episteme, v. 3, n. 1, p. 75-95, 2012.
+		
+		\bibitem{4} HAACK, Susan. Defending science-within reason: Between scientism and cynicism. Prometheus Books, 2011.
+		
+		\bibitem{5} CARNAP, Rudolf. The Logical Construction of the World and Pseudoproblems in Philosophy. Chicago: Open Court, 1928.
+		
+		\bibitem{6} DEWEY, John. Experience and education. In: The Educational Forum. Taylor \& Francis Group, 1986. p. 241-252.
+		
+		\bibitem{7} DEWEY, John. Experience and nature. Courier Corporation, 1958.
+		
+		\bibitem{8} POPPER, Karl. Conjeturas e refutações. Leya, 2019.
+		
+		\bibitem{9} BROADBENT, Alex. Philosophy of Epidemiology. Palgrave Macmillan, London, 2013.
+		
+		\bibitem{9}	FEYERABEND, Paul et al. Against method. Verso, 1993.
