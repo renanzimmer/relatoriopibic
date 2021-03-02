@@ -2426,16 +2426,24 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">feyerabend-science-free-society</bcf:citekey>
-    <bcf:citekey order="2">feyerabend-against-method</bcf:citekey>
-    <bcf:citekey order="3">haack-defending-science</bcf:citekey>
-    <bcf:citekey order="4">haack-defending-science</bcf:citekey>
-    <bcf:citekey order="5">haack-defending-science</bcf:citekey>
-    <bcf:citekey order="6">philosophy-of-epidemiology</bcf:citekey>
-    <bcf:citekey order="7" nocite="1">cunha-unidade</bcf:citekey>
-    <bcf:citekey order="8" nocite="1">haack-six-signs</bcf:citekey>
-    <bcf:citekey order="9" nocite="1">dewey-ee</bcf:citekey>
-    <bcf:citekey order="10" nocite="1">dewey-en</bcf:citekey>
+    <bcf:citekey order="1">cunha-unidade</bcf:citekey>
+    <bcf:citekey order="2">cunha-unidade</bcf:citekey>
+    <bcf:citekey order="3">cartwright-dappled-world</bcf:citekey>
+    <bcf:citekey order="4">cartwright-dappled-world</bcf:citekey>
+    <bcf:citekey order="5">feyerabend-against-method</bcf:citekey>
+    <bcf:citekey order="6">feyerabend-science-free-society</bcf:citekey>
+    <bcf:citekey order="7">haack-defending-science</bcf:citekey>
+    <bcf:citekey order="8">haack-defending-science</bcf:citekey>
+    <bcf:citekey order="9">feyerabend-science-free-society</bcf:citekey>
+    <bcf:citekey order="10">feyerabend-against-method</bcf:citekey>
+    <bcf:citekey order="11">haack-defending-science</bcf:citekey>
+    <bcf:citekey order="12">haack-defending-science</bcf:citekey>
+    <bcf:citekey order="13">haack-defending-science</bcf:citekey>
+    <bcf:citekey order="14">broadbent</bcf:citekey>
+    <bcf:citekey order="15">youtube</bcf:citekey>
+    <bcf:citekey order="16">youtube</bcf:citekey>
+    <bcf:citekey order="17">cunha_sci_and_edu</bcf:citekey>
+    <bcf:citekey order="18">cunha_sci_and_edu</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

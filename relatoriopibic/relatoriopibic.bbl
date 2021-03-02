@@ -19,35 +19,118 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{philosophy-of-epidemiology}{book}{}
+    \entry{broadbent}{book}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e01335ac80a344f104887fc1a82d02ed}{%
-           family={BROADBENDT},
+        {{un=0,uniquepart=base,hash=83cb7353fd0475e717fe84b1a6e63133}{%
+           family={Broadbent},
            familyi={B\bibinitperiod},
            given={Alex},
            giveni={A\bibinitperiod},
            givenun=0}}%
       }
       \list{location}{1}{%
-        {London}%
+        {Basingstoke, Hampshire ; New York}%
       }
       \list{publisher}{1}{%
-        {Palgrave Macmillan}%
+        {Palgrave {MacMillan}}%
       }
-      \strng{namehash}{e01335ac80a344f104887fc1a82d02ed}
-      \strng{fullhash}{e01335ac80a344f104887fc1a82d02ed}
-      \strng{bibnamehash}{e01335ac80a344f104887fc1a82d02ed}
-      \strng{authorbibnamehash}{e01335ac80a344f104887fc1a82d02ed}
-      \strng{authornamehash}{e01335ac80a344f104887fc1a82d02ed}
-      \strng{authorfullhash}{e01335ac80a344f104887fc1a82d02ed}
+      \strng{namehash}{83cb7353fd0475e717fe84b1a6e63133}
+      \strng{fullhash}{83cb7353fd0475e717fe84b1a6e63133}
+      \strng{bibnamehash}{83cb7353fd0475e717fe84b1a6e63133}
+      \strng{authorbibnamehash}{83cb7353fd0475e717fe84b1a6e63133}
+      \strng{authornamehash}{83cb7353fd0475e717fe84b1a6e63133}
+      \strng{authorfullhash}{83cb7353fd0475e717fe84b1a6e63133}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{edition}{2013ª edição}
+      \field{isbn}{978-0-230-35512-5}
+      \field{month}{6}
+      \field{title}{Philosophy of Epidemiology}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
+    \entry{cartwright-dappled-world}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fbaade670b892f3ab57ff980f8560928}{%
+           family={Cartwright},
+           familyi={C\bibinitperiod},
+           given={Nancy},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, England}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{fullhash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{bibnamehash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{authorbibnamehash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{authornamehash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{authorfullhash}{fbaade670b892f3ab57ff980f8560928}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Philosophy of Epidemiology}
-      \field{year}{2013}
+      \field{title}{The dappled world: A study of the boundaries of science}
+      \field{year}{1999}
+    \endentry
+    \entry{cunha_sci_and_edu}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a2e1e67ca01c7daa560e43a1f9006123}{%
+           family={Cunha},
+           familyi={C\bibinitperiod},
+           given={Ivan\bibnamedelimb Ferreira\bibnamedelima da},
+           giveni={I\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a2e1e67ca01c7daa560e43a1f9006123}
+      \strng{fullhash}{a2e1e67ca01c7daa560e43a1f9006123}
+      \strng{bibnamehash}{a2e1e67ca01c7daa560e43a1f9006123}
+      \strng{authorbibnamehash}{a2e1e67ca01c7daa560e43a1f9006123}
+      \strng{authornamehash}{a2e1e67ca01c7daa560e43a1f9006123}
+      \strng{authorfullhash}{a2e1e67ca01c7daa560e43a1f9006123}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{issn}{1984-9605}
+      \field{journaltitle}{Filosofia e Educação}
+      \field{langid}{portuguese}
+      \field{month}{5}
+      \field{note}{Number: 2}
+      \field{number}{2}
+      \field{shortjournal}{Filos. e Educ.}
+      \field{title}{John Dewey, Filosofia da Ciência e Filosofia da Educação}
+      \field{volume}{7}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{123\bibrangedash 142}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.20396/rfe.v7i2.8637551
+      \endverb
+      \verb{urlraw}
+      \verb https://periodicos.sbu.unicamp.br/ojs/index.php/rfe/article/view/8637551
+      \endverb
+      \verb{url}
+      \verb https://periodicos.sbu.unicamp.br/ojs/index.php/rfe/article/view/8637551
+      \endverb
+      \keyw{Dewey. Feyerabend. Unidade da ciência}
     \endentry
     \entry{cunha-unidade}{article}{}
       \name{author}{1}{}{%
@@ -64,88 +147,32 @@
       \strng{authorbibnamehash}{a2e1e67ca01c7daa560e43a1f9006123}
       \strng{authornamehash}{a2e1e67ca01c7daa560e43a1f9006123}
       \strng{authorfullhash}{a2e1e67ca01c7daa560e43a1f9006123}
+      \field{extraname}{2}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
+      \field{labeltitlesource}{shorttitle}
       \field{journaltitle}{Scientiae Studia}
+      \field{note}{Publisher: {SciELO} Brasil}
+      \field{number}{1}
+      \field{shorttitle}{Uma discussão sobre a unidade da ciência}
       \field{title}{Uma discussão sobre a unidade da ciência: Neurath e a utopia da ciência unificada}
       \field{volume}{13}
       \field{year}{2015}
-      \true{nocite}
+      \field{dateera}{ce}
       \field{pages}{97\bibrangedash 122}
       \range{pages}{26}
-    \endentry
-    \entry{dewey-ee}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5c5de775d0445f8562791447bca9a1ca}{%
-           family={DEWEY},
-           familyi={D\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Oxfordshire}%
-      }
-      \list{publisher}{1}{%
-        {Taylor \& Francis Group}%
-      }
-      \strng{namehash}{5c5de775d0445f8562791447bca9a1ca}
-      \strng{fullhash}{5c5de775d0445f8562791447bca9a1ca}
-      \strng{bibnamehash}{5c5de775d0445f8562791447bca9a1ca}
-      \strng{authorbibnamehash}{5c5de775d0445f8562791447bca9a1ca}
-      \strng{authornamehash}{5c5de775d0445f8562791447bca9a1ca}
-      \strng{authorfullhash}{5c5de775d0445f8562791447bca9a1ca}
-      \field{extraname}{1}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Experience and Education}
-      \field{year}{1986}
-      \true{nocite}
-    \endentry
-    \entry{dewey-en}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5c5de775d0445f8562791447bca9a1ca}{%
-           family={DEWEY},
-           familyi={D\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {North Chelmsford}%
-      }
-      \list{publisher}{1}{%
-        {Courier Corporation}%
-      }
-      \strng{namehash}{5c5de775d0445f8562791447bca9a1ca}
-      \strng{fullhash}{5c5de775d0445f8562791447bca9a1ca}
-      \strng{bibnamehash}{5c5de775d0445f8562791447bca9a1ca}
-      \strng{authorbibnamehash}{5c5de775d0445f8562791447bca9a1ca}
-      \strng{authornamehash}{5c5de775d0445f8562791447bca9a1ca}
-      \strng{authorfullhash}{5c5de775d0445f8562791447bca9a1ca}
-      \field{extraname}{2}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Experience and Nature}
-      \field{year}{1958}
-      \true{nocite}
+      \verb{file}
+      \verb Full Text:C\:\\Users\\renan\\Zotero\\storage\\K98USHRA\\Cunha - 2015 - Uma discussão sobre a unidade da ciência Neurath .pdf:application/pdf;Snapshot:C\:\\Users\\renan\\Zotero\\storage\\V8SMUQ8W\\scielo.html:text/html
+      \endverb
     \endentry
     \entry{feyerabend-against-method}{book}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=29e3a1125b58010517929f430ba70314}{%
-           family={FEYERABEND},
+        {{un=0,uniquepart=base,hash=6636c2ff933363a6800f81eaf3a8574b}{%
+           family={Feyerabend},
            familyi={F\bibinitperiod},
            given={Paul},
            giveni={P\bibinitperiod},
@@ -157,12 +184,12 @@
       \list{publisher}{1}{%
         {Verso}%
       }
-      \strng{namehash}{29e3a1125b58010517929f430ba70314}
-      \strng{fullhash}{29e3a1125b58010517929f430ba70314}
-      \strng{bibnamehash}{29e3a1125b58010517929f430ba70314}
-      \strng{authorbibnamehash}{29e3a1125b58010517929f430ba70314}
-      \strng{authornamehash}{29e3a1125b58010517929f430ba70314}
-      \strng{authorfullhash}{29e3a1125b58010517929f430ba70314}
+      \strng{namehash}{6636c2ff933363a6800f81eaf3a8574b}
+      \strng{fullhash}{6636c2ff933363a6800f81eaf3a8574b}
+      \strng{bibnamehash}{6636c2ff933363a6800f81eaf3a8574b}
+      \strng{authorbibnamehash}{6636c2ff933363a6800f81eaf3a8574b}
+      \strng{authornamehash}{6636c2ff933363a6800f81eaf3a8574b}
+      \strng{authorfullhash}{6636c2ff933363a6800f81eaf3a8574b}
       \field{extraname}{1}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
@@ -175,8 +202,8 @@
     \endentry
     \entry{feyerabend-science-free-society}{book}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=29e3a1125b58010517929f430ba70314}{%
-           family={FEYERABEND},
+        {{un=0,uniquepart=base,hash=6636c2ff933363a6800f81eaf3a8574b}{%
+           family={Feyerabend},
            familyi={F\bibinitperiod},
            given={Paul},
            giveni={P\bibinitperiod},
@@ -188,12 +215,12 @@
       \list{publisher}{1}{%
         {Schocken Books}%
       }
-      \strng{namehash}{29e3a1125b58010517929f430ba70314}
-      \strng{fullhash}{29e3a1125b58010517929f430ba70314}
-      \strng{bibnamehash}{29e3a1125b58010517929f430ba70314}
-      \strng{authorbibnamehash}{29e3a1125b58010517929f430ba70314}
-      \strng{authornamehash}{29e3a1125b58010517929f430ba70314}
-      \strng{authorfullhash}{29e3a1125b58010517929f430ba70314}
+      \strng{namehash}{6636c2ff933363a6800f81eaf3a8574b}
+      \strng{fullhash}{6636c2ff933363a6800f81eaf3a8574b}
+      \strng{bibnamehash}{6636c2ff933363a6800f81eaf3a8574b}
+      \strng{authorbibnamehash}{6636c2ff933363a6800f81eaf3a8574b}
+      \strng{authornamehash}{6636c2ff933363a6800f81eaf3a8574b}
+      \strng{authorfullhash}{6636c2ff933363a6800f81eaf3a8574b}
       \field{extraname}{2}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
@@ -225,7 +252,6 @@
       \strng{authorbibnamehash}{94b27fef18d27d2d53a96137f6131950}
       \strng{authornamehash}{94b27fef18d27d2d53a96137f6131950}
       \strng{authorfullhash}{94b27fef18d27d2d53a96137f6131950}
-      \field{extraname}{1}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
@@ -235,35 +261,49 @@
       \field{title}{Defending science-within reason: Between scientism and cynicism}
       \field{year}{2011}
     \endentry
-    \entry{haack-six-signs}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=94b27fef18d27d2d53a96137f6131950}{%
-           family={Haack},
-           familyi={H\bibinitperiod},
-           given={Susan},
+    \entry{youtube}{online}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9f067e6048ec407ab086cc3122d35142}{%
+           family={Meirelles},
+           familyi={M\bibinitperiod},
+           given={Sofia},
            giveni={S\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e7406dfd6e6c8ff28893b2a6aceb23c}{%
+           family={Zimmer},
+           familyi={Z\bibinitperiod},
+           given={Renan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{94b27fef18d27d2d53a96137f6131950}
-      \strng{fullhash}{94b27fef18d27d2d53a96137f6131950}
-      \strng{bibnamehash}{94b27fef18d27d2d53a96137f6131950}
-      \strng{authorbibnamehash}{94b27fef18d27d2d53a96137f6131950}
-      \strng{authornamehash}{94b27fef18d27d2d53a96137f6131950}
-      \strng{authorfullhash}{94b27fef18d27d2d53a96137f6131950}
-      \field{extraname}{2}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \list{organization}{1}{%
+        {Youtube}%
+      }
+      \strng{namehash}{a9a47f1e74b7fe78c31d3f3d13350247}
+      \strng{fullhash}{a9a47f1e74b7fe78c31d3f3d13350247}
+      \strng{bibnamehash}{a9a47f1e74b7fe78c31d3f3d13350247}
+      \strng{authorbibnamehash}{a9a47f1e74b7fe78c31d3f3d13350247}
+      \strng{authornamehash}{a9a47f1e74b7fe78c31d3f3d13350247}
+      \strng{authorfullhash}{a9a47f1e74b7fe78c31d3f3d13350247}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Logos \& Episteme}
-      \field{title}{Six signs of scientism}
-      \field{volume}{3}
-      \field{year}{2012}
-      \true{nocite}
-      \field{pages}{75\bibrangedash 95}
-      \range{pages}{21}
+      \field{title}{Filosofia da Ciência / Filosofia da Epidemiologia}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtu.be/T5ROCtlEzf4
+      \endverb
+      \verb{url}
+      \verb https://youtu.be/T5ROCtlEzf4
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
