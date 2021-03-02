@@ -252,6 +252,7 @@
       \strng{authorbibnamehash}{94b27fef18d27d2d53a96137f6131950}
       \strng{authornamehash}{94b27fef18d27d2d53a96137f6131950}
       \strng{authorfullhash}{94b27fef18d27d2d53a96137f6131950}
+      \field{extraname}{1}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
@@ -260,6 +261,35 @@
       \field{labeltitlesource}{title}
       \field{title}{Defending science-within reason: Between scientism and cynicism}
       \field{year}{2011}
+    \endentry
+    \entry{haack-six-signs}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=94b27fef18d27d2d53a96137f6131950}{%
+           family={Haack},
+           familyi={H\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{94b27fef18d27d2d53a96137f6131950}
+      \strng{fullhash}{94b27fef18d27d2d53a96137f6131950}
+      \strng{bibnamehash}{94b27fef18d27d2d53a96137f6131950}
+      \strng{authorbibnamehash}{94b27fef18d27d2d53a96137f6131950}
+      \strng{authornamehash}{94b27fef18d27d2d53a96137f6131950}
+      \strng{authorfullhash}{94b27fef18d27d2d53a96137f6131950}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Logos \& Episteme}
+      \field{title}{Six signs of scientism}
+      \field{volume}{3}
+      \field{year}{2012}
+      \field{pages}{75\bibrangedash 95}
+      \range{pages}{21}
     \endentry
     \entry{youtube}{online}{}
       \name{author}{2}{}{%
@@ -299,11 +329,41 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://youtu.be/T5ROCtlEzf4
+      \verb http://bit.ly/ufsc-epidemiologia
       \endverb
       \verb{url}
-      \verb https://youtu.be/T5ROCtlEzf4
+      \verb http://bit.ly/ufsc-epidemiologia
       \endverb
+    \endentry
+    \entry{popper_conjeturas}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cc598e8e33bbe50dcbcbba1ad62d756b}{%
+           family={Popper},
+           familyi={P\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Edições 70}%
+      }
+      \strng{namehash}{cc598e8e33bbe50dcbcbba1ad62d756b}
+      \strng{fullhash}{cc598e8e33bbe50dcbcbba1ad62d756b}
+      \strng{bibnamehash}{cc598e8e33bbe50dcbcbba1ad62d756b}
+      \strng{authorbibnamehash}{cc598e8e33bbe50dcbcbba1ad62d756b}
+      \strng{authornamehash}{cc598e8e33bbe50dcbcbba1ad62d756b}
+      \strng{authorfullhash}{cc598e8e33bbe50dcbcbba1ad62d756b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1ª edição}
+      \field{isbn}{978-972-44-2018-9}
+      \field{title}{Conjeturas e Refutações}
+      \field{year}{2018}
+      \field{dateera}{ce}
     \endentry
   \enddatalist
 \endrefsection

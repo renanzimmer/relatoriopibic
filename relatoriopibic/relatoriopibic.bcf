@@ -2435,15 +2435,21 @@
     <bcf:citekey order="7">haack-defending-science</bcf:citekey>
     <bcf:citekey order="8">haack-defending-science</bcf:citekey>
     <bcf:citekey order="9">feyerabend-science-free-society</bcf:citekey>
-    <bcf:citekey order="10">feyerabend-against-method</bcf:citekey>
-    <bcf:citekey order="11">haack-defending-science</bcf:citekey>
-    <bcf:citekey order="12">haack-defending-science</bcf:citekey>
-    <bcf:citekey order="13">haack-defending-science</bcf:citekey>
-    <bcf:citekey order="14">broadbent</bcf:citekey>
-    <bcf:citekey order="15">youtube</bcf:citekey>
-    <bcf:citekey order="16">youtube</bcf:citekey>
-    <bcf:citekey order="17">cunha_sci_and_edu</bcf:citekey>
-    <bcf:citekey order="18">cunha_sci_and_edu</bcf:citekey>
+    <bcf:citekey order="10">cunha-unidade</bcf:citekey>
+    <bcf:citekey order="11">cunha-unidade</bcf:citekey>
+    <bcf:citekey order="12">popper_conjeturas</bcf:citekey>
+    <bcf:citekey order="13">popper_conjeturas</bcf:citekey>
+    <bcf:citekey order="14">feyerabend-against-method</bcf:citekey>
+    <bcf:citekey order="15">haack-defending-science</bcf:citekey>
+    <bcf:citekey order="16">haack-defending-science</bcf:citekey>
+    <bcf:citekey order="17">haack-defending-science</bcf:citekey>
+    <bcf:citekey order="18">broadbent</bcf:citekey>
+    <bcf:citekey order="19">youtube</bcf:citekey>
+    <bcf:citekey order="20">youtube</bcf:citekey>
+    <bcf:citekey order="21">cunha_sci_and_edu</bcf:citekey>
+    <bcf:citekey order="22">cunha_sci_and_edu</bcf:citekey>
+    <bcf:citekey order="23">haack-six-signs</bcf:citekey>
+    <bcf:citekey order="24">haack-six-signs</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
