@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.2.1)  2 MAR 2021 20:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.2.1)  2 MAR 2021 20:09
 entering extended mode
 **./relatoriopibic.tex
 (relatoriopibic.tex
@@ -1161,22 +1161,22 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [2] [3] [4] [5] [6]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 209.
+(Font)              <10.95> on input line 210.
  [7] [8]
-Overfull \hbox (7.43321pt too wide) in paragraph at lines 239--240
+Overfull \hbox (7.43321pt too wide) in paragraph at lines 240--241
 []\T1/lmr/m/n/12 Durante e após in-ves-ti-ga-ções, fre-quen-te-mente ou-tras si
 -tu-a-ções in-de-ter-mi-na-das originam-
  []
 
 [9] [10] [11] [12]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
-87.
+88.
 
 (C:\Users\renan\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
-87.
+88.
 
 (C:\Users\renan\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1196,7 +1196,7 @@ Here is how much of TeX's memory you used:
  34212 multiletter control sequences out of 15000+200000
  478849 words of font info for 89 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 86i,8n,101p,1585b,5729s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 86i,8n,101p,1586b,5729s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/renan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C
 :/Users/renan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/U
 sers/renan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/U
@@ -1209,7 +1209,7 @@ rs/renan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users
 enan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/r
 enan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/r
 enan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on relatoriopibic.pdf (13 pages, 282661 bytes).
+Output written on relatoriopibic.pdf (13 pages, 282425 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

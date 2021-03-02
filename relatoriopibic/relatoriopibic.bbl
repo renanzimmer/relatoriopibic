@@ -344,6 +344,9 @@
            giveni={K\bibinitperiod},
            givenun=0}}%
       }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
       \list{publisher}{1}{%
         {Edições 70}%
       }
