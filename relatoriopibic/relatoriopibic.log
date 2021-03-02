@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.2.1)  2 MAR 2021 15:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.2.1)  2 MAR 2021 15:23
 entering extended mode
 **./relatoriopibic.tex
 (relatoriopibic.tex
@@ -1168,22 +1168,26 @@ Overfull \hbox (7.43321pt too wide) in paragraph at lines 241--242
 -tu-a-ções in-de-ter-mi-na-das originam-
  []
 
-[9] [10] [11]
+[9] [10] [11] [12]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
-79.
+81.
 
 (C:\Users\renan\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
-79.
+81.
 
 (C:\Users\renan\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [12]
+) [13]
 (relatoriopibic.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
 
 Package logreq Info: Writing requests to 'relatoriopibic.run.xml'.
 \openout1 = `relatoriopibic.run.xml'.
@@ -1209,9 +1213,9 @@ rs/renan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users
 enan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/r
 enan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/r
 enan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on relatoriopibic.pdf (12 pages, 278869 bytes).
+Output written on relatoriopibic.pdf (13 pages, 279829 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
+ 89 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
