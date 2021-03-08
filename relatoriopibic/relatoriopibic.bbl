@@ -169,6 +169,133 @@
       \verb Full Text:C\:\\Users\\renan\\Zotero\\storage\\K98USHRA\\Cunha - 2015 - Uma discussão sobre a unidade da ciência Neurath .pdf:application/pdf;Snapshot:C\:\\Users\\renan\\Zotero\\storage\\V8SMUQ8W\\scielo.html:text/html
       \endverb
     \endentry
+    \entry{dewey-ee}{book}{}
+      \name{author}{1}{}{%
+        {{un=2,uniquepart=given,hash=03b3356eb23d298d57635488371299f9}{%
+           family={Dewey},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+      }
+      \list{location}{1}{%
+        {Oxfordshire}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis Group}%
+      }
+      \strng{namehash}{03b3356eb23d298d57635488371299f9}
+      \strng{fullhash}{03b3356eb23d298d57635488371299f9}
+      \strng{bibnamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authorbibnamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authornamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authorfullhash}{03b3356eb23d298d57635488371299f9}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Experience and Education}
+      \field{year}{1986}
+    \endentry
+    \entry{dewey-en}{book}{}
+      \name{author}{1}{}{%
+        {{un=2,uniquepart=given,hash=03b3356eb23d298d57635488371299f9}{%
+           family={Dewey},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+      }
+      \list{location}{1}{%
+        {North Chelmsford}%
+      }
+      \list{publisher}{1}{%
+        {Courier Corporation}%
+      }
+      \strng{namehash}{03b3356eb23d298d57635488371299f9}
+      \strng{fullhash}{03b3356eb23d298d57635488371299f9}
+      \strng{bibnamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authorbibnamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authornamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authorfullhash}{03b3356eb23d298d57635488371299f9}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Experience and Nature}
+      \field{year}{1958}
+    \endentry
+    \entry{dewey_logic}{book}{}
+      \name{author}{1}{}{%
+        {{un=2,uniquepart=given,hash=03b3356eb23d298d57635488371299f9}{%
+           family={Dewey},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+      }
+      \list{location}{1}{%
+        {Carbondale}%
+      }
+      \list{publisher}{1}{%
+        {Southern Illinois University Press}%
+      }
+      \strng{namehash}{03b3356eb23d298d57635488371299f9}
+      \strng{fullhash}{03b3356eb23d298d57635488371299f9}
+      \strng{bibnamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authorbibnamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authornamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authorfullhash}{03b3356eb23d298d57635488371299f9}
+      \field{extraname}{3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{isbn}{978-1-4437-2479-1}
+      \field{month}{11}
+      \field{title}{Logic - The Theory of Inquiry}
+      \field{year}{2008}
+      \field{dateera}{ce}
+    \endentry
+    \entry{dewey_valuation}{article}{}
+      \name{author}{1}{}{%
+        {{un=2,uniquepart=given,hash=03b3356eb23d298d57635488371299f9}{%
+           family={Dewey},
+           familyi={D\bibinitperiod},
+           given={John.},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+      }
+      \strng{namehash}{03b3356eb23d298d57635488371299f9}
+      \strng{fullhash}{03b3356eb23d298d57635488371299f9}
+      \strng{bibnamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authorbibnamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authornamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authorfullhash}{03b3356eb23d298d57635488371299f9}
+      \field{extraname}{4}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Encyclopedia of Unified Science}
+      \field{title}{Theory of valuation}
+      \field{volume}{2, 4}
+      \field{year}{1939}
+      \field{dateera}{ce}
+      \field{pages}{vii + 67\bibrangedash vii + 67}
+      \range{pages}{-1}
+    \endentry
     \entry{feyerabend-against-method}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6636c2ff933363a6800f81eaf3a8574b}{%
