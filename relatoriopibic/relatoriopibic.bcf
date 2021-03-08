@@ -2439,24 +2439,25 @@
     <bcf:citekey order="10">cunha-unidade</bcf:citekey>
     <bcf:citekey order="11">popper_conjeturas</bcf:citekey>
     <bcf:citekey order="12">popper_conjeturas</bcf:citekey>
-    <bcf:citekey order="13">feyerabend-against-method</bcf:citekey>
+    <bcf:citekey order="13">mill_liberty_2002</bcf:citekey>
     <bcf:citekey order="14">feyerabend-against-method</bcf:citekey>
-    <bcf:citekey order="15">feyerabend-science-free-society</bcf:citekey>
+    <bcf:citekey order="15">feyerabend-against-method</bcf:citekey>
     <bcf:citekey order="16">feyerabend-science-free-society</bcf:citekey>
-    <bcf:citekey order="17">haack-defending-science</bcf:citekey>
+    <bcf:citekey order="17">feyerabend-science-free-society</bcf:citekey>
     <bcf:citekey order="18">haack-defending-science</bcf:citekey>
     <bcf:citekey order="19">haack-defending-science</bcf:citekey>
-    <bcf:citekey order="20">dewey-ee</bcf:citekey>
-    <bcf:citekey order="20">dewey_logic</bcf:citekey>
-    <bcf:citekey order="21">dewey_valuation</bcf:citekey>
-    <bcf:citekey order="21">dewey-en</bcf:citekey>
-    <bcf:citekey order="22">broadbent</bcf:citekey>
-    <bcf:citekey order="23">youtube</bcf:citekey>
+    <bcf:citekey order="20">haack-defending-science</bcf:citekey>
+    <bcf:citekey order="21">dewey-ee</bcf:citekey>
+    <bcf:citekey order="21">dewey_logic</bcf:citekey>
+    <bcf:citekey order="22">dewey_valuation</bcf:citekey>
+    <bcf:citekey order="22">dewey-en</bcf:citekey>
+    <bcf:citekey order="23">broadbent</bcf:citekey>
     <bcf:citekey order="24">youtube</bcf:citekey>
-    <bcf:citekey order="25">cunha_sci_and_edu</bcf:citekey>
+    <bcf:citekey order="25">youtube</bcf:citekey>
     <bcf:citekey order="26">cunha_sci_and_edu</bcf:citekey>
-    <bcf:citekey order="27">haack-six-signs</bcf:citekey>
+    <bcf:citekey order="27">cunha_sci_and_edu</bcf:citekey>
     <bcf:citekey order="28">haack-six-signs</bcf:citekey>
+    <bcf:citekey order="29">haack-six-signs</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

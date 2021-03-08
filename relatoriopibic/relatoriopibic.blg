@@ -1,15 +1,15 @@
-[1] Config.pm:311> INFO - This is Biber 2.16
-[2] Config.pm:314> INFO - Logfile is 'relatoriopibic.blg'
+[0] Config.pm:311> INFO - This is Biber 2.16
+[1] Config.pm:314> INFO - Logfile is 'relatoriopibic.blg'
 [323] biber-MSWIN64:340> INFO - === 
-[415] Biber.pm:415> INFO - Reading 'relatoriopibic.bcf'
-[788] Biber.pm:952> INFO - Found 14 citekeys in bib section 0
-[835] Biber.pm:4340> INFO - Processing section 0
-[866] Biber.pm:4531> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
-[1000] bibtex.pm:1689> INFO - LaTeX decoding ...
-[1079] bibtex.pm:1494> INFO - Found BibTeX data source 'bibliography.bib'
-[1398] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1399] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1399] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-PT'
-[1399] Biber.pm:4174> INFO - No sort tailoring available for locale 'pt-PT'
-[1448] bbl.pm:654> INFO - Writing 'relatoriopibic.bbl' with encoding 'UTF-8'
-[1462] bbl.pm:757> INFO - Output to relatoriopibic.bbl
+[451] Biber.pm:415> INFO - Reading 'relatoriopibic.bcf'
+[905] Biber.pm:952> INFO - Found 15 citekeys in bib section 0
+[967] Biber.pm:4340> INFO - Processing section 0
+[1009] Biber.pm:4531> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[1244] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1318] bibtex.pm:1494> INFO - Found BibTeX data source 'bibliography.bib'
+[1655] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1655] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1655] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-PT'
+[1655] Biber.pm:4174> INFO - No sort tailoring available for locale 'pt-PT'
+[1707] bbl.pm:654> INFO - Writing 'relatoriopibic.bbl' with encoding 'UTF-8'
+[1722] bbl.pm:757> INFO - Output to relatoriopibic.bbl

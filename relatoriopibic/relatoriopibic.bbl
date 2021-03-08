@@ -462,6 +462,40 @@
       \verb http://bit.ly/ufsc-epidemiologia
       \endverb
     \endentry
+    \entry{mill_liberty_2002}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b627c5e688e8b7502c2468b40c681f20}{%
+           family={Mill},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima Stuart},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Mineola, {NY}}%
+      }
+      \list{publisher}{1}{%
+        {Dover Publications}%
+      }
+      \strng{namehash}{b627c5e688e8b7502c2468b40c681f20}
+      \strng{fullhash}{b627c5e688e8b7502c2468b40c681f20}
+      \strng{bibnamehash}{b627c5e688e8b7502c2468b40c681f20}
+      \strng{authorbibnamehash}{b627c5e688e8b7502c2468b40c681f20}
+      \strng{authornamehash}{b627c5e688e8b7502c2468b40c681f20}
+      \strng{authorfullhash}{b627c5e688e8b7502c2468b40c681f20}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{isbn}{978-0-486-42130-8}
+      \field{month}{6}
+      \field{title}{On Liberty}
+      \field{year}{2002}
+      \field{dateera}{ce}
+    \endentry
     \entry{popper_conjeturas}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=cc598e8e33bbe50dcbcbba1ad62d756b}{%
